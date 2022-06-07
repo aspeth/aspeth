@@ -4,10 +4,10 @@ Hi, I'm Andrew!
 I am a back-end software engineer with a background in special education and applied behavior analysis.
 Feel free to take a peek at my work and reach out!
 
-LinkedIn: (https://www.linkedin.com/in/andrew-speth/) Email: speth.andrew@yahoo.com
+LinkedIn: https://www.linkedin.com/in/andrew-speth/ Email: speth.andrew@yahoo.com
 
-Technical Skills
-🏗   Frameworks & Languages
+
+# 🏗   Frameworks & Languages
 ![Ruby on Rails Badge](https://img.shields.io/badge/Ruby%20on%20Rails-C00?logo=rubyonrails&logoColor=fff&style=for-the-badge)
 
 🛠   Tools
