@@ -8,7 +8,7 @@ LinkedIn: https://www.linkedin.com/in/andrew-speth/ Email: speth.andrew@yahoo.co
 
 
 # 🏗   Frameworks & Languages
-![Ruby on Rails Badge](https://img.shields.io/badge/Ruby%20on%20Rails-C00?logo=rubyonrails&logoColor=fff&style=for-the-badge)
+![Ruby on Rails Badge](https://img.shields.io/badge/Ruby%20on%20Rails-C00?logo=rubyonrails&logoColor=fff&style=for-the-badge) ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 
 # 🛠   Tools
 Atom Git GitHub Heroku PostgreSQL Postico Postman Slack circle-ci
