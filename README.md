@@ -29,7 +29,6 @@ Email: speth.andrew@yahoo.com
 
 ### 🛠 &nbsp; Tools
 
-![VSCode][vscode-badge]
 ![Git][git-badge]
 ![GitHub][github-badge]
 ![Heroku][heroku-badge]
@@ -67,7 +66,7 @@ Email: speth.andrew@yahoo.com
 [github-stats-image]: https://github-readme-stats.vercel.app/api?username=aspethi&theme=vue&show_icons=true
 [top-languages-image]: https://github-readme-stats.vercel.app/api/top-langs/?username=aspeth&layout=compact&theme=vue
 
-[github-follow-badge]: https://img.shields.io/github/followers/SethPerna?label=aspeth&style=social
+[github-follow-badge]: https://img.shields.io/github/followers/aspeth?label=aspeth&style=social
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-Andrew`--Speth-white?style=flat&logo=Linkedin&logoColor=white&color=white&labelColor=0A66C2
 
 [rails-badge]: https://img.shields.io/badge/Ruby%20on%20Rails-f06611.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white
