@@ -1,3 +1,4 @@
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 [![About][about-badge]](#about)
 [![Technical Skills][technical-skills-badge]](#technical-skills)
