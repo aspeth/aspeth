@@ -61,13 +61,8 @@ Email: speth.andrew@yahoo.com
 ![REST][rest-badge]
 
 <!-- BADGES & IMAGES -->
-[github-stats-image]: https://github-readme-stats.vercel.app/api?username=aspethi&theme=vue&show_icons=true
-[top-languages-image]: https://github-readme-stats.vercel.app/api/top-langs/?username=aspeth&layout=compact&theme=vue
 
-[github-follow-badge]: https://img.shields.io/github/followers/aspeth?label=aspeth&style=social
-[linkedin-badge]: https://img.shields.io/badge/LinkedIn-Andrew`--Speth-white?style=flat&logo=Linkedin&logoColor=white&color=white&labelColor=0A66C2
-
-[rails-badge]: https://img.shields.io/badge/Ruby%20on%20Rails-f06611.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white
+[rails-badge]: https://img.shields.io/badge/Ruby%20on%20Rails-0DC2C9.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white
 
 [ruby-badge]: https://img.shields.io/badge/ruby-f06611.svg?&style=for-the-badge&logo=ruby&logoColor=white
 [sql-badge]: https://img.shields.io/badge/SQL-f06611.svg?style=for-the-badge&logo=SQL&logoColor=white
