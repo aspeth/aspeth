@@ -1,16 +1,20 @@
-### Hi there 👋
+About
+Hi, I'm Andrew!
 
-<!--
-**aspeth/aspeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a back-end software engineer with a background in special education and applied behavior analysis.
+Feel free to take a peek at my work and reach out!
 
-Here are some ideas to get you started:
+LinkedIn: (https://www.linkedin.com/in/andrew-speth/) Email: speth.andrew@yahoo.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills
+🏗   Frameworks & Languages
+![Ruby on Rails Badge](https://img.shields.io/badge/Ruby%20on%20Rails-C00?logo=rubyonrails&logoColor=fff&style=for-the-badge)
+
+🛠   Tools
+Atom Git GitHub Heroku PostgreSQL Postico Postman Slack circle-ci
+
+💎   Ruby Gems
+Bootstrap Capybara FactoryBot Faker Faraday Figaro Launchy Orderly Pry RSpec RuboCop Shoulda-Matchers SimpleCov VCR Webmock
+
+💬   Processes
+OOP TDD MVC REST
