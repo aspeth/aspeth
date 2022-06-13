@@ -59,6 +59,7 @@ Email: speth.andrew@yahoo.com
 ![TDD][tdd-badge]
 ![MVC][mvc-badge]
 ![REST][rest-badge]
+![SOA][soa-badge]
 
 <!-- BADGES & IMAGES -->
 
@@ -110,6 +111,7 @@ Email: speth.andrew@yahoo.com
 [tdd-badge]: https://img.shields.io/badge/TDD-0DC2C9.svg?&style=for-the-badge&logo=TDD&logoColor=white
 [mvc-badge]: https://img.shields.io/badge/MVC-0DC2C9.svg?&style=for-the-badge&logo=MVC&logoColor=white
 [rest-badge]: https://img.shields.io/badge/REST-0DC2C9.svg?&style=for-the-badge&logo=REST&logoColor=white
+[soa-badge]: https://img.shields.io/badge/SOA-0DC2C9.svg?&style=for-the-badge&logo=REST&logoColor=white
 
 [about-badge]: https://img.shields.io/badge/about-0DC2C9.svg?&style=for-the-badge&logo=ABOUT&logoColor=white
 [technical-skills-badge]: https://img.shields.io/badge/technical_skills-0DC2C9.svg?&style=for-the-badge&logo=technical-skills&logoColor=white
