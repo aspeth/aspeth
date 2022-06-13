@@ -5,7 +5,7 @@
 
 Hi, I'm Andrew!
 
-I am a back-end software engineer with a background in special education and applied behavior analysis. I started my journey into software by writing simple programs in Python and Ruby to replicate data calculations I had used in Microsoft Excel. This led me to enroll in the Turing School of Software & Design, focusing on backend engineering using Ruby on Rails.
+I am a back-end software engineer with a background in special education and applied behavior analysis. I started my journey into software by writing simple programs in Ruby to replicate data calculations I had used in Microsoft Excel. This led me to enroll in the Turing School of Software & Design, focusing on backend engineering using Ruby on Rails.
 
 My drive to help others is what brought me to education originally, and is something that I carry with me as a developer - I want the software I build to have a positive impact on the people who use it.
 
