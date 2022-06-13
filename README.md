@@ -12,6 +12,7 @@ My drive to help others is what brought me to education originally, and is somet
 Feel free to take a peek at my work and reach out!
 
 LinkedIn: https://www.linkedin.com/in/andrew-speth/
+
 Email: speth.andrew@yahoo.com
 
 ## Technical Skills
